@@ -1,7 +1,7 @@
 # KHAN Encryption Algorithm
 
 **Author:** Ayaz Khan  
-**Date:** [Date]
+**Date:** 05/27/2024
 
 ## Overview
 The Keyed Hashing and Asymmetric Nonce (KHAN) encryption algorithm is a novel encryption system based on cyclic primes and unique movement patterns. This algorithm ensures that each character in the plaintext is mapped to a unique movement in the cyclic sequence, providing robust security through its unique mathematical foundations.
